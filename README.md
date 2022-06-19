@@ -1,4 +1,4 @@
-# task_1
+# Rock Paper Scissor
 
 A new Flutter project.
 
